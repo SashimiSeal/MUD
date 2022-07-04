@@ -1,2 +1,3 @@
 # MUD
-my first MUD generator
+
+My first MUD generator
